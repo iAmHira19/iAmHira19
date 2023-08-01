@@ -1,4 +1,4 @@
-![logo](https://github.com/iAmHira19/iAmHira19/blob/main/Hira_Github_profile)
+![logo](https://github.com/iAmHira19/iAmHira19/blob/Hira_GitHub_profile)
 
 
 <h1 align="center">Hi 👋, I'm Hira Amanat</h1>
