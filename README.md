@@ -1,4 +1,4 @@
-![logo](https://github.com/iAmHira19/iAmHira19/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png?raw=true)
+![logo](https://github.com/iAmHira19/iAmHira19/blob/main/Hira_Github_profile)
 
 
 <h1 align="center">Hi 👋, I'm Hira Amanat</h1>
