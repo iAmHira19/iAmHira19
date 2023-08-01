@@ -1,5 +1,4 @@
-![logo](https://github.com/iAmHira19/iAmHira19/blob/Hira_GitHub_profile)
-
+![logo](https://github.com/iAmHira19/iAmHira19/blob/main/Hira_Github_profile_11zon.png)
 
 <h1 align="center">Hi 👋, I'm Hira Amanat</h1>
 <h3 align="center">UET'25 || Software engineer || C/ C++ || HTML || CSS || JavaScript || Front-End developer || SQL || C# || Deputy director at TEDx || Social Media Manager at ACM ||</h3>
