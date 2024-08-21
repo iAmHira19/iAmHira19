@@ -11,7 +11,7 @@
 
 I'm a passionate Software Engineer with a focus on full-stack web development and machine learning. My journey at the University of Engineering and Technology, Lahore, has been complemented by hands-on experience at various tech companies like Apex Space, HiSkyTech, and Codsoft. I thrive in dynamic environments, contributing to innovative solutions and fostering team success.
 
-- 🔭 **Currently working at**: [Apex Space](https://apexspace.net/), [HiSkyTech](https://www.linkedin.com/company/hiskytech/ ), [Codsoft](https://www.codsoft.in/)
+- 🔭 **Currently working at**: [NAVTTC](https://navttc.gov.pk/ ), [Al-Khawarizmi Institute of Computer Science (KICS)](https://kics.edu.pk/web/ ), [CognoRise InfoTech](https://cognoriseinfotech.com/)
 - 🌱 **Learning**: React.js, Machine Learning
 - 👯 **Collaborating on**: Full-stack web development projects
 - 💬 **Ask me about**: C, C++, C#, HTML, CSS, JavaScript, React.js, SQL , Python
@@ -73,7 +73,7 @@ I'm a passionate Software Engineer with a focus on full-stack web development an
 ### 🚀 My Projects
 
 - 💻 **[My Portfolio](https://github.com/YourUsername/YourPortfolioRepository](https://iamhira19.github.io/personal-portfolio-/ )**: A comprehensive showcase of my projects.
-- 📄 **[Download My Resume](https://github.com/YourUsername/YourRepositoryName/blob/main/YourCVFileName.pdf)**: Click here to download my latest CV in PDF format.
+- 📄 **[Download My Resume](https://github.com/iAmHira19/iAmHira19/blob/main/Hira_Amanat_CV_2024.pdf)**: Click here to download my latest CV in PDF format.
 
 ---
 
