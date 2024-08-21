@@ -72,10 +72,11 @@ I'm a passionate Software Engineer with a focus on full-stack web development an
 
 ### 🚀 My Projects
 
-- 💻 **[My Portfolio](#):** A comprehensive showcase of my projects.
-- 📄 **[Download My Resume](#)**: Click here to download my latest CV in PDF format.
+- 💻 **[My Portfolio](https://github.com/YourUsername/YourPortfolioRepository)**: A comprehensive showcase of my projects.
+- 📄 **[Download My Resume](https://github.com/YourUsername/YourRepositoryName/blob/main/YourCVFileName.pdf)**: Click here to download my latest CV in PDF format.
 
 ---
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iAmHira19&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
