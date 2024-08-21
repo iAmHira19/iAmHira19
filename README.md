@@ -1,28 +1,93 @@
-![logo](https://github.com/iAmHira19/iAmHira19/blob/main/Hira_Github_profile_11zon.png)
-
-<h1 align="center">Hi 👋, I'm Hira Amanat</h1>
-<h3 align="center">UET'25 || Software engineer || C/ C++ || HTML || CSS || JavaScript || Front-End developer || SQL || C# || Deputy director at TEDx || Social Media Manager at ACM ||</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="">
-
-- 🔭 I’m currently work with Apex Space [web development](https://apexspace.net/)
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m currently work with Codsoft [web development](https://www.codsoft.in/)
-
-- 👨‍💻 All of my projects are available at [C:\Users\Hira\Desktop\Hiraaa\images](C:\Users\Hira\Desktop\Hiraaa\images)
-
-- 📄 Know about my experiences [A web developer and developer of various projects](A web developer and developer of various projects)
-
-- ⚡ Fun fact **I think I am a funny person**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hira-amanat-800104245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hira-amanat-800104245" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100070345276825&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070345276825&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/heer_3980?igshid=zguzmzm3nwjioq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/heer_3980?igshid=zguzmzm3nwjioq==" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/iAmHira19/iAmHira19/blob/main/Hira_Github_profile_11zon.png" alt="Logo" width="200">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Hira Amanat</h1>
+<h3 align="center">UET'25 | Software Engineer | Full-Stack Developer | Tech Enthusiast | Leader | Social Media Manager</h3>
+
+---
+
+### 🌟 About Me
+
+I'm a passionate Software Engineer with a focus on full-stack web development and machine learning. My journey at the University of Engineering and Technology, Lahore, has been complemented by hands-on experience at various tech companies like Apex Space, HiSkyTech, and Codsoft. I thrive in dynamic environments, contributing to innovative solutions and fostering team success.
+
+- 🔭 **Currently working at**: [Apex Space](https://apexspace.net/), [HiSkyTech](#), [Codsoft](https://www.codsoft.in/)
+- 🌱 **Learning**: React.js, Machine Learning
+- 👯 **Collaborating on**: Full-stack web development projects
+- 💬 **Ask me about**: C, C++, C#, HTML, CSS, JavaScript, React.js, SQL
+- ⚡ **Fun fact**: I believe humor is the secret to creativity!
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+---
+
+### 💼 Experience
+
+- **Web Development Intern** @ CognoRise InfoTech (Aug 2024 - Present)
+- **Web Development & Designing** @ Oasis Infobyte (Aug 2024 - Present)
+- **Full-Stack Web Developer** @ HiSkyTech, Apex Space (Jul 2024 - Present)
+- **Co-Lead Web Developer** @ GDSC (Sep 2023 - Present)
+- **Machine Learning Intern** @ CodeAlpha (Jun 2024 - Present)
+- **Vice President** @ ACM UET New Campus (Apr 2023 - Present)
+- **Deputy Director** @ TEDx UET New Campus (Oct 2022 - Present)
+
+---
+
+### 🏆 Certifications
+
+- Microsoft Copilot Learning Path (LinkedIn Learning)
+- IBM Certified Specialist - Storwize V7000 Technical Solutions V2
+- Copilot in Teams: AI-Powered Collaboration
+- Web Developer Certification
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hira-amanat-800104245" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100070345276825&mibextid=zbwkwl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/heer_3980?igshid=zguzmzm3nwjioq==" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🚀 My Projects
+
+- 💻 **[My Portfolio](#):** A comprehensive showcase of my projects.
+- 📄 **[Download My Resume](#)**: Click here to download my latest CV in PDF format.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iAmHira19&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAmHira19&theme=radical" alt="GitHub Streak" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmHira19&layout=compact&theme=radical" alt="Top Languages" width="500"/>
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://img.shields.io/github/followers/iAmHira19?label=Follow%20me&style=social" alt="GitHub Followers" />
+</p>
