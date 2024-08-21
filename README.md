@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hira Amanat</h1>
-<h3 align="center">UET'25 | Software Engineer | Full-Stack Developer | Tech Enthusiast | Leader | Social Media Manager</h3>
+<h3 align="center">UET'25 | Software Engineer | Full-Stack Developer | Web-Developer Co-Lead GDSC | Vice-President ACM | Social Media Manager | Junior AI Enthusiast </h3>
 
 ---
 
@@ -11,10 +11,10 @@
 
 I'm a passionate Software Engineer with a focus on full-stack web development and machine learning. My journey at the University of Engineering and Technology, Lahore, has been complemented by hands-on experience at various tech companies like Apex Space, HiSkyTech, and Codsoft. I thrive in dynamic environments, contributing to innovative solutions and fostering team success.
 
-- 🔭 **Currently working at**: [Apex Space](https://apexspace.net/), [HiSkyTech](#), [Codsoft](https://www.codsoft.in/)
+- 🔭 **Currently working at**: [Apex Space](https://apexspace.net/), [HiSkyTech](https://www.linkedin.com/company/hiskytech/ ), [Codsoft](https://www.codsoft.in/)
 - 🌱 **Learning**: React.js, Machine Learning
 - 👯 **Collaborating on**: Full-stack web development projects
-- 💬 **Ask me about**: C, C++, C#, HTML, CSS, JavaScript, React.js, SQL
+- 💬 **Ask me about**: C, C++, C#, HTML, CSS, JavaScript, React.js, SQL , Python
 - ⚡ **Fun fact**: I believe humor is the secret to creativity!
 
 ---
@@ -39,12 +39,14 @@ I'm a passionate Software Engineer with a focus on full-stack web development an
 ### 💼 Experience
 
 - **Web Development Intern** @ CognoRise InfoTech (Aug 2024 - Present)
+- **Mern Stack DEveloper** @ Al-Khawarizmi Institute of Computer Science (KICS) (Aug 2024 - Present)
+- **Advance Web Application Developement** @ National Vocational and Technical Training Commission (Aug 2024 - Present)
 - **Web Development & Designing** @ Oasis Infobyte (Aug 2024 - Present)
 - **Full-Stack Web Developer** @ HiSkyTech, Apex Space (Jul 2024 - Present)
 - **Co-Lead Web Developer** @ GDSC (Sep 2023 - Present)
 - **Machine Learning Intern** @ CodeAlpha (Jun 2024 - Present)
 - **Vice President** @ ACM UET New Campus (Apr 2023 - Present)
-- **Deputy Director** @ TEDx UET New Campus (Oct 2022 - Present)
+- **General Secretary** @ TEDx UET New Campus (Oct 2022 - Present)
 
 ---
 
@@ -63,6 +65,7 @@ I'm a passionate Software Engineer with a focus on full-stack web development an
   <a href="https://www.linkedin.com/in/hira-amanat-800104245" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100070345276825&mibextid=zbwkwl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/heer_3980?igshid=zguzmzm3nwjioq==" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+ <a href="mailto:hiraamanatali19@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" style="background-color:#fecc30;"/></a>
 </p>
 
 ---
