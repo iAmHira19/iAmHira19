@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iAmHira19/iAmHira19/blob/main/Hira_Github_profile_11zon.png" alt="Logo" width="200">
+  <img src="https://github.com/iAmHira19/iAmHira19/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png" alt="Logo" width="1100">
 </p>
 
 <h1 align="center">Hi 👋, I'm Hira Amanat</h1>
