@@ -72,7 +72,7 @@ I'm a passionate Software Engineer with a focus on full-stack web development an
 
 ### 🚀 My Projects
 
-- 💻 **[My Portfolio](https://github.com/YourUsername/YourPortfolioRepository](https://iamhira19.github.io/personal-portfolio-/ )**: A comprehensive showcase of my projects.
+- 💻 **[My Portfolio](https://github.com/iAmHira19/personal-portfolio-)**: A comprehensive showcase of my projects.
 - 📄 **[Download My Resume](https://github.com/iAmHira19/iAmHira19/blob/main/Hira_Amanat_CV_2024.pdf)**: Click here to download my latest CV in PDF format.
 
 ---
