@@ -62,11 +62,20 @@ I'm a passionate Software Engineer with a focus on full-stack web development an
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hira-amanat-800104245" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100070345276825&mibextid=zbwkwl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/heer_3980?igshid=zguzmzm3nwjioq==" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
- <a href="mailto:hiraamanatali19@gmail.com"><img src="https://github.com/iAmHira19/iAmHira19/blob/main/email.png" alt="Email" height="30" width="40" style="background-color:#fecc30;"/></a>
+  <a href="https://www.linkedin.com/in/hira-amanat-800104245" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="fill:#fecc30;"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100070345276825&mibextid=zbwkwl" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="fill:#fecc30;"/>
+  </a>
+  <a href="https://instagram.com/heer_3980?igshid=zguzmzm3nwjioq==" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="fill:#fecc30;"/>
+  </a>
+  <a href="mailto:hiraamanatali19@gmail.com">
+    <img src="https://github.com/iAmHira19/iAmHira19/blob/main/email.png" alt="Email" height="30" width="40" style="background-color:#fecc30;"/>
+  </a>
 </p>
+
 
 ---
 
